@@ -1,3 +1,3 @@
-This is Gfg hacthon projrct
+This is Gfg hacthon project
 <br>
 Authoe name - jatin chaurasiya
